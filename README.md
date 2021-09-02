@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @7ing7ing.
-- 👀 I’m interested in videogames, tv-series and movies.
+- 👀 My hobbies are videogames, tv-series and movies.
 - 🌱 I’m currently learning web development with FreeCodeCamp.
+- 🐱 I'm obsessed with cats.
 - 💞️ I’m looking to collaborate on on anything open source to gain experience.
 
 <!---
