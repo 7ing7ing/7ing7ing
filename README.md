@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @7ing7ing.
+- 👋 Hi, I’m Ting-Ting.
 - 👀 My hobbies are videogames, tv-series and movies.
 - 🌱 I’m currently learning web development with FreeCodeCamp.
 - 🐱 Cat lover.
