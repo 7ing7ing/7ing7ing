@@ -7,6 +7,8 @@
 - 💞️ I’m looking to collaborate on on anything open source to gain experience.
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/7ing7ing/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hchunyu.tty@gmail.com)
+[![portfolio](https://img.shields.io/badge/Portfolio-B6FFCE?style=for-the-badge&logo=Portfolio&logoColor=white)](https://7ing7ing.vercel.app/)
 
 # Tech stack
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
