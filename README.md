@@ -1,11 +1,12 @@
-# 👋 Hey there, I’m Ting-Ting!
+# 👋 Hey there, I’m Ting-Ting! ![](https://komarev.com/ghpvc/?username=7ing7ing)
 
 
 - 👀 My hobbies are digital illustration, videogames, tv-series and movies.
 - 🌱 I am a self taught web developer who learned through Freecodecamp.
 - 🐱 Cat lover.
 - 💞️ I’m looking to collaborate on on anything open source to gain experience.
-
+ 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/7ing7ing/)
 
 # Tech stack
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
