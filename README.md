@@ -33,7 +33,6 @@
 
 # My Github Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7ing7ing&theme=dark)
-![Ting-Ting's GitHub stats](https://github-readme-stats.vercel.app/api?username=7ing7ing&show_icons=true&theme=radical)
 
 <!---
 7ing7ing/7ing7ing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
