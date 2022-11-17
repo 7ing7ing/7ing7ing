@@ -3,6 +3,7 @@
 
 - 👀 My hobbies are digital illustration, videogames, tv-series and films.
 - 🌱 I am a self taught web developer who learned through Freecodecamp.
+- 🤝 Open to connect with fellow developers on LinkedIn!
 - 🐱 Cat lover.
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/7ing7ing/)
