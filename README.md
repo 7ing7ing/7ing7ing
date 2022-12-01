@@ -36,6 +36,9 @@
 # My Github Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7ing7ing&theme=dark)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!---
 7ing7ing/7ing7ing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
