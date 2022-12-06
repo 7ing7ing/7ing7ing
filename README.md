@@ -36,11 +36,9 @@
 # My Github Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7ing7ing&theme=dark)
 
-<!--
-# This week Wakatime Stats
+# Wakatime stats last 7 days
+<img src="https://wakatime.com/share/@7ing7ing/d8a2532b-cc18-4e63-9110-0e2e3b74bd2d.svg" height="400" width="600"></img>
 
-[![Ting's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=7ing7ing&layout=compact)](https://github.com/7ing7ing/github-readme-stats)
--->
 
 <!---
 7ing7ing/7ing7ing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
