@@ -2,7 +2,7 @@
 
 
 - 👀 My hobbies are digital illustration, videogames, tv-series and films.
-- 🌱 I am a self taught web developer who learned through Freecodecamp.
+- 🌱 I am a self taught web developer who learned through [freeCodeCamp](https://www.freecodecamp.org/).
 - 🤝 Open to connect with fellow developers on LinkedIn!
 - 🐱 Cat lover.
 - 🎨 Learning digital illustration.
