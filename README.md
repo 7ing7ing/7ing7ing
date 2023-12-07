@@ -35,10 +35,10 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 # My Github Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7ing7ing&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7ing7ing&theme=transparent)
 
 # Wakatime stats
-<img src="https://wakatime.com/share/@7ing7ing/c0e31510-cd11-48b7-8eda-25b8a8c658e2.svg" height="400" width="600"></img>
+<img src="https://wakatime.com/share/@7ing7ing/30f0e781-f8cb-4ddb-b8a2-7ac8794ab66a.svg" height="400" width="600"></img>
 
 
 <!---
