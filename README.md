@@ -1,11 +1,9 @@
 # 👋 Hey there, I’m Ting-Ting! ![](https://komarev.com/ghpvc/?username=7ing7ing)
 
 
+- 👩🏽‍💻 I am a full stack web developer, dedicated to enhancing website functionality. I address issues, introduce new features for a seamless user experience, and optimize the site for improved SEO performance. This involves optimizing loading speed and strategically incorporating relevant words and phrases to boost visibility on search engines, particularly Google.
 - 👀 My hobbies are digital illustration, videogames, tv-series and films.
-- 🌱 I am a self taught web developer who learned through [freeCodeCamp](https://www.freecodecamp.org/).
-- 🤝 Open to connect with fellow developers on LinkedIn!
 - 🐱 Cat lover.
-- 🎨 Learning digital illustration.
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/7ing7ing/)
 [![portfolio](https://img.shields.io/badge/Portfolio-FF869E?style=for-the-badge&logo=Portfolio&logoColor=white)](https://7ing7ing.vercel.app/)
@@ -34,10 +32,10 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-# My Github Stats
+# Conttributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7ing7ing&theme=transparent)
 
-# Wakatime stats
+# Languages usage percentage 
 <img src="https://wakatime.com/share/@7ing7ing/14c987f2-fb05-46a1-b6ca-6c52206749a1.svg" height="400" width="600"></img>
 
 
