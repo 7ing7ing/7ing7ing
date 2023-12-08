@@ -38,7 +38,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7ing7ing&theme=transparent)
 
 # Wakatime stats
-<img src="https://wakatime.com/share/@7ing7ing/30f0e781-f8cb-4ddb-b8a2-7ac8794ab66a.svg" height="400" width="600"></img>
+<img src="https://wakatime.com/share/@7ing7ing/14c987f2-fb05-46a1-b6ca-6c52206749a1.svg" height="400" width="600"></img>
 
 
 <!---
