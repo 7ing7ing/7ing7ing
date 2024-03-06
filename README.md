@@ -32,7 +32,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-# Conttributions
+# Contributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7ing7ing&theme=transparent)
 
 # Languages usage percentage 
