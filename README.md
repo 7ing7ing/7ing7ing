@@ -1,9 +1,12 @@
 # 👋 Hey there, I’m Ting-Ting! ![](https://komarev.com/ghpvc/?username=7ing7ing)
 
 
-- 👩🏽‍💻 I am a full stack web developer, dedicated to enhancing website functionality. I address issues, introduce new features for a seamless user experience, and optimize the site for improved SEO performance. This involves optimizing loading speed and strategically incorporating relevant words and phrases to boost visibility on search engines, particularly Google.
-- 👀 My hobbies are digital illustration, videogames, tv-series and films.
+- 👩🏽‍💻 I am a full-stack web developer committed to elevating website functionality. I solve technical issues, implement new features for a seamless user experience, and optimize sites for better SEO performance. 
+I'm always learning and eager to acquire new skills. To me, languages are tools, and I pride myself on my ability to adapt to new technologies. Whether it's mastering a new programming language or staying updated with the latest industry trends, my commitment is to continuous improve.
 - 🐱 Cat lover.
+- 🎨 Interested in digital illustration.
+- 🎮 Occasional game player.
+- 🎞️ Enjoy films and tv shows.
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/7ing7ing/)
 [![portfolio](https://img.shields.io/badge/Portfolio-FF869E?style=for-the-badge&logo=Portfolio&logoColor=white)](https://7ing7ing.vercel.app/)
