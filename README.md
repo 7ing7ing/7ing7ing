@@ -31,6 +31,7 @@
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ## Familiar with:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -42,9 +43,9 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-# Contributions
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7ing7ing&theme=transparent)
-
+<!--[# Contributions
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7ing7ing&theme=transparent)](url)
+-->
 # Languages usage percentage 
 <img src="https://wakatime.com/share/@7ing7ing/14c987f2-fb05-46a1-b6ca-6c52206749a1.svg" height="400" width="600"></img>
 
