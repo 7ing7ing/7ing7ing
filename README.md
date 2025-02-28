@@ -3,13 +3,14 @@
 
 - 👩🏽‍💻 I am a full-stack web developer committed to improve websites functionality. From frontend design to backend development, I ensure everything works toghether consistently.
 - 🐱 Cat lover.
-- 🎨 Interested in digital illustration.
+- 🎨 Learning and interested in digital illustration.
 - 🎮 Occasional game player.
 - 🎞️ Enjoy films and tv shows.
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/7ing7ing/)
 [![portfolio](https://img.shields.io/badge/Portfolio-FF869E?style=for-the-badge&logo=Portfolio&logoColor=white)](https://7ing7ing.vercel.app/)
 [![FREECODECAMP](https://img.shields.io/badge/-FREECODECAMP-243A73?style=for-the-badge&logo=Portfolio&logoColor=white)](https://www.freecodecamp.org/7ing7ing)
+[![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/u/7ing7ing/)
 
 
 # Day-to-day stack:
@@ -48,7 +49,6 @@
 -->
 # Languages usage percentage 
 <img src="https://wakatime.com/share/@7ing7ing/14c987f2-fb05-46a1-b6ca-6c52206749a1.svg" height="400" width="600"></img>
-
 
 <!---
 7ing7ing/7ing7ing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
