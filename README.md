@@ -10,7 +10,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/7ing7ing/)
 [![portfolio](https://img.shields.io/badge/Portfolio-FF869E?style=for-the-badge&logo=Portfolio&logoColor=white)](https://7ing7ing.vercel.app/)
 [![FREECODECAMP](https://img.shields.io/badge/-FREECODECAMP-243A73?style=for-the-badge&logo=Portfolio&logoColor=white)](https://www.freecodecamp.org/7ing7ing)
-[![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/u/7ing7ing/)
 
 
 # Day-to-day stack:
