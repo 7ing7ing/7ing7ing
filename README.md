@@ -2,7 +2,7 @@
 
 
 - 👩🏽‍💻 I am a full-stack engineer committed to improve websites functionality. From front end design to back end and mobile development, I ensure everything works toghether consistently.
-- 🐱🐼 I like cats and capybaras.
+- 🐱🐼 I like cats and pandas.
 - 🎨 Learning/interested in digital illustration.
 - 🎮 Occasional game player.
 - ✈️ Love travelling.
