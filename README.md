@@ -1,11 +1,11 @@
 # 👋 Hey there, I’m Ting-Ting! ![](https://komarev.com/ghpvc/?username=7ing7ing)
 
 
-- 👩🏽‍💻 I am a full-stack web developer committed to improve websites functionality. From frontend design to backend development, I ensure everything works toghether consistently.
-- 🐱 Cat lover.
-- 🎨 Learning and interested in digital illustration.
+- 👩🏽‍💻 I am a full-stack engineer committed to improve websites functionality. From front end design to back end and mobile development, I ensure everything works toghether consistently.
+- 🐱🐼 I like cats and capybaras.
+- 🎨 Learning/interested in digital illustration.
 - 🎮 Occasional game player.
-- 🎞️ Enjoy films and tv shows.
+- ✈️ Love travelling.
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/7ing7ing/)
 [![portfolio](https://img.shields.io/badge/Portfolio-FF869E?style=for-the-badge&logo=Portfolio&logoColor=white)](https://7ing7ing.vercel.app/)
@@ -32,6 +32,8 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ## Familiar with:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -43,9 +45,9 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<!--[# Contributions
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7ing7ing&theme=transparent)](url)
--->
+## Contributions
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7ing7ing&theme=transparent)
+
 # Languages usage percentage 
 <img src="https://wakatime.com/share/@7ing7ing/14c987f2-fb05-46a1-b6ca-6c52206749a1.svg" height="400" width="600"></img>
 
