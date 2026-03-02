@@ -1,7 +1,7 @@
 # 👋 Hey there, I’m Ting-Ting! ![](https://komarev.com/ghpvc/?username=7ing7ing)
 
 
-- 👩🏽‍💻 I am a full-stack engineer committed to improve websites functionality. From front end design to back end and mobile development, I ensure everything works toghether consistently.
+- 👩🏽‍💻 I am a full-stack engineer committed to improve websites functionality. From front end design to back end and mobile development, I ensure everything works together consistently.
 - 🐱🐼 I like cats and pandas.
 - 🎨 Learning/interested in digital illustration.
 - 🎮 Occasional game player.
